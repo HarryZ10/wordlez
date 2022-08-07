@@ -1,0 +1,42 @@
+{
+    "solutions": [
+        { "id": 1, "word": "spade"},
+        { "id": 2, "word": "clubs"},
+        { "id": 3, "word": "heart"},
+        { "id": 6, "word": "queen"},
+        { "id": 7, "word": "jacks"},
+        { "id": 8, "word": "great"},
+        { "id": 9, "word": "train"},
+        { "id": 10, "word": "react"}
+    ],
+    "letters": [
+        {"key": "q"},
+        {"key": "w"},
+        {"key": "e"},
+        {"key": "r"},
+        {"key": "t"},
+        {"key": "y"},
+        {"key": "u"},
+        {"key": "i"},
+        {"key": "o"},
+        {"key": "p"},
+        {"key": "a"},
+        {"key": "s"},
+        {"key": "d"},
+        {"key": "f"},
+        {"key": "g"},
+        {"key": "h"},
+        {"key": "j"},
+        {"key": "k"},
+        {"key": "l"},
+        {"key": "↩"},
+        {"key": "z"},
+        {"key": "x"},
+        {"key": "c"},
+        {"key": "v"},
+        {"key": "b"},
+        {"key": "n"},
+        {"key": "m"},
+        {"key": "⌫"}
+    ]
+}
